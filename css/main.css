@@ -7,6 +7,8 @@
 
 html {
     background-color: #363538;
+    background-image: url("../images/background2.JPG");
+    background-size: 2000px 1200px;
     font-family: 'Inter', sans-serif;
    
     font-size: 0.95em;
