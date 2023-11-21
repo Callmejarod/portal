@@ -17,7 +17,8 @@ html {
 
 ::selection {
     color: #000; 
-    background: #90a955;
+    background: #b9a86b;
+   /* background: #94867e; */ 
 }
 
 h1 {
